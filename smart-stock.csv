@@ -1,0 +1,20 @@
+﻿Product ID,Product Name,Category,Price,Quantity in Stock,Current stock level,sales
+P001,Product 001,Accessories,53.75,17,Medium,16
+P002,Product 002,Stationery,57.5,24,High,25
+P003,Product 003,Home,61.25,31,Low,38
+P004,Product 004,Grocery,65,38,Medium,49
+P005,Product 005,Electronics,167.75,45,High,60
+P006,Product 006,Accessories,72.5,52,Low,45
+P007,Product 007,Stationery,76.25,59,Medium,40
+P008,Product 008,Home,78.45,66,High,120
+P009,Product 009,Grocery,83.75,73,Low,104
+P010,Product 010,Electronics,150.5,80,Medium,12
+P011,Product 011,Accessories,91.25,87,High,126
+P012,Product 012,Stationery,95,94,Low,234
+P013,Product 013,Home,98.75,101,Medium,148
+P014,Product 014,Grocery,75.5,108,High,150
+P015,Product 015,Electronics,156.25,115,Low,120
+P016,Product 016,Accessories,110,122,Medium,181
+P017,Product 017,Stationery,65.75,129,High,250
+P018,Product 018,Home,110.5,136,Low,203
+P019,Product 019,Grocery,75.25,143,Medium,217

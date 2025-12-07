@@ -1,1 +1,2 @@
-# SmartStock-Inventory-Optimization-for-Retail-Stores
+# Infosys_SmartStock-Inventory-Optimization-for-Retail-Stores-Project
+An intelligent inventory optimization system built with Streamlit and Scikit-learn. It leverages data analytics and Linear Regression forecasting to maintain ideal stock levels, reduce stockouts, and automate reorder decisions. The interactive dashboard helps retailers cut excess inventory and improve efficiency with real-time alerts.
